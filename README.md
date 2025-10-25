@@ -25,5 +25,4 @@ git clone https://github.com/yourusername/lenet5-replication
 cd lenet5-replication
 pip install -r requirements.txt
 python lenet5.py
-'''
 
